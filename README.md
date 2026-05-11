@@ -68,7 +68,7 @@ This repository documents my daily DSA practice, tracks my growth, and serves as
 ## 🔗 LeetCode Profile
 
 **My LeetCode Profile:**
-[https://leetcode.com/your-username]([https://leetcode.com/your-username](https://leetcode.com/u/leetcode-anand/))
+[https://leetcode.com/u/leetcode-anand/](https://leetcode.com/u/leetcode-anand/)
 
 ---
 
