@@ -1,36 +1,40 @@
 # LeetCode Solutions 🚀
 
 Welcome to my LeetCode problem-solving repository!
-This repository contains my optimized C++ solutions to LeetCode problems, organized by difficulty level.
+This repository contains my optimized solutions to LeetCode problems, including **C++ (DSA)** and **SQL (Database)** problems, organized by category and difficulty level.
 
 ---
 
 ## 📌 About
 
-* **Language:** C++
-* **Focus:** Data Structures & Algorithms
-* **Goal:** Improve problem-solving skills and prepare for coding interviews
+* **Languages:** C++, SQL
+* **Focus:** Data Structures, Algorithms & Database Problem Solving
+* **Goal:** Strengthen problem-solving skills and prepare for coding interviews
 * **Solutions include:**
 
   * Clean code
   * Optimized approaches
   * Time & Space Complexity Analysis
+  * SQL Query Optimization
 
 ---
 
 ## 📂 Folder Structure
 
-```txt
+```txt id="p7m4kx"
 LeetCode-Solutions/
  ┣ Easy/
  ┣ Medium/
  ┣ Hard/
+ ┣ Database/
  ┗ README.md
 ```
 
 ---
 
 ## 🧠 Topics Covered
+
+### DSA
 
 * Arrays
 * Strings
@@ -49,6 +53,18 @@ LeetCode-Solutions/
 * Recursion
 * Bit Manipulation
 
+### Database / SQL
+
+* SELECT Statements
+* WHERE Clauses
+* LEFT JOIN / INNER JOIN
+* GROUP BY
+* HAVING
+* ORDER BY
+* Subqueries
+* Aggregate Functions
+* Window Functions
+
 ---
 
 ## 🎯 Progress Tracker
@@ -56,12 +72,13 @@ LeetCode-Solutions/
 * Easy: X+
 * Medium: X+
 * Hard: X+
+* Database: X+
 
 ---
 
 ## 🏆 Purpose
 
-This repository documents my daily DSA practice, tracks my growth, and serves as a structured guide toward mastering coding interviews, competitive programming, and technical problem-solving.
+This repository documents my daily LeetCode practice, tracks my growth, and serves as a structured roadmap toward mastering coding interviews, competitive programming, database querying, and technical problem-solving.
 
 ---
 
@@ -75,7 +92,8 @@ This repository documents my daily DSA practice, tracks my growth, and serves as
 ## 📈 Why This Repository?
 
 * Build strong DSA foundations
-* Track consistency and improvement
+* Improve SQL and database querying skills
+* Track consistency and growth
 * Prepare for FAANG / Product-based company interviews
 * Maintain optimized reference solutions
 * Showcase coding journey on GitHub
