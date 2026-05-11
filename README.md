@@ -1,30 +1,32 @@
-````md
 # LeetCode Solutions 🚀
 
-Welcome to my LeetCode problem-solving repository!  
+Welcome to my LeetCode problem-solving repository!
 This repository contains my optimized C++ solutions to LeetCode problems, organized by difficulty level.
 
 ---
 
 ## 📌 About
-- **Language:** C++
-- **Focus:** Data Structures & Algorithms
-- **Goal:** Improve problem-solving skills and prepare for coding interviews
-- **Solutions include:**
-  - Clean code
-  - Optimized approaches
-  - Time & Space Complexity Analysis
+
+* **Language:** C++
+* **Focus:** Data Structures & Algorithms
+* **Goal:** Improve problem-solving skills and prepare for coding interviews
+* **Solutions include:**
+
+  * Clean code
+  * Optimized approaches
+  * Time & Space Complexity Analysis
 
 ---
 
 ## 📂 Folder Structure
+
 ```txt
 LeetCode-Solutions/
  ┣ Easy/
  ┣ Medium/
  ┣ Hard/
  ┗ README.md
-````
+```
 
 ---
 
@@ -86,6 +88,3 @@ Feel free to explore, learn, and use these solutions for practice.
 
 **Consistency beats intensity.**
 **Solve. Optimize. Repeat.**
-
-```
-```
