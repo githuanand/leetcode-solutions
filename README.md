@@ -69,10 +69,10 @@ LeetCode-Solutions/
 
 ## 🎯 Progress Tracker
 
-* Easy: X+
+* Easy: 1+
 * Medium: X+
 * Hard: X+
-* Database: X+
+* Database: 3+
 
 ---
 
